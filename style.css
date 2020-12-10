@@ -209,6 +209,11 @@ img {vertical-align: middle;}
 
 /*----------------------------------*/
 
+/*-------------About page---------------------*/
+
+.header-about {
+	margin:auto;
+}
 
 /* ================================= 
   Media Queries
